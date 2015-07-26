@@ -1,0 +1,26 @@
+{
+  "name": "date-periodjs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/weagle08/date-periodjs",
+  "authors": [
+    "weagle08 <weagle08@gmail.com>"
+  ],
+  "description": "calculates the dates between a start and end date on a given frequency",
+  "main": "lib/DatePeriodCalculator.js",
+  "keywords": [
+    "date",
+    "date-period",
+    "date-frequency",
+    "frequency",
+    "period",
+    "time-period"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

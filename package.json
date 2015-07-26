@@ -1,0 +1,37 @@
+{
+  "name": "date-periodjs",
+  "version": "0.1.0",
+  "description": "calculates the dates between a start and end date on a given frequency",
+  "main": "lib/DatePeriodCalculator.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weagle08/date-periodjs.git"
+  },
+  "keywords": [
+    "date",
+    "date-period",
+    "date-frequency",
+    "frequency",
+    "period",
+    "time-period"
+  ],
+  "author": "Ben Johnson <weagle08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weagle08/date-periodjs/issues"
+  },
+  "homepage": "https://github.com/weagle08/date-periodjs",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "simple-datejs": "^0.2.3"
+  },
+  "scripts": {
+    "test": "mocha -R spec --recursive"
+  }
+}
