@@ -1,14 +1,22 @@
 # date-periodjs
 calculates the dates between a start and end date with the given frequency of occurance
 
-##valid frequencies
-0 - one time
-1 - daily
-2 - weekly
-3 - biweekly
-4 - monthly
+##install
+
+$ npm install date-periodjs
+
+$ bower install simple-datejs
 
 ##usage
+
+###valid frequencies
+
+0 - one time<br/>
+1 - daily<br/>
+2 - weekly<br/>
+3 - biweekly<br/>
+4 - monthly<br/>
+
 ```javascript
 var dpc = require('date-periodjs');
 
