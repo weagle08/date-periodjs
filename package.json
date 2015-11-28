@@ -1,6 +1,6 @@
 {
   "name": "date-periodjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "calculates the dates between a start and end date on a given frequency",
   "main": "lib/DatePeriodCalculator.js",
   "scripts": {
