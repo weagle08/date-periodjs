@@ -1,3 +1,6 @@
+**deprecated**
+functionality has been rolled into [simple-datejs](https://www.npmjs.com/package/simple-datejs)
+
 # date-periodjs
 calculates the dates between a start and end date with the given frequency of occurance
 
